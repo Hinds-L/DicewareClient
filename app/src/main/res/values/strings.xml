@@ -3,4 +3,8 @@
   <string name="generate">Generate</string>
   <string name="words_in_passphrase">words in passphrase</string>
   <string name="default_length">6</string>
+  <string name="client_id">281627058112-o1aj97ffsq0a4097qkn52utbhq9qg2dm.apps.googleusercontent.com</string>
+  <string name="login_error">Unable to sign in on Google Account</string>
+  <string name="log_out">Log out</string>
+  <string name="oauth2_header">Bearer %s</string>
 </resources>
